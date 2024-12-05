@@ -1,0 +1,10 @@
+C:\Users\sanmg\source\repos\GeradorDeSenhasC#\GeradorDeSenhasC#\obj\Debug\GeradorDeSenhasC#.csproj.AssemblyReference.cache
+C:\Users\sanmg\source\repos\GeradorDeSenhasC#\GeradorDeSenhasC#\obj\Debug\GeradorDeSenhasC_.Form1.resources
+C:\Users\sanmg\source\repos\GeradorDeSenhasC#\GeradorDeSenhasC#\obj\Debug\GeradorDeSenhasC_.Properties.Resources.resources
+C:\Users\sanmg\source\repos\GeradorDeSenhasC#\GeradorDeSenhasC#\obj\Debug\GeradorDeSenhasC#.csproj.GenerateResource.cache
+C:\Users\sanmg\source\repos\GeradorDeSenhasC#\GeradorDeSenhasC#\obj\Debug\GeradorDeSenhasC#.csproj.CoreCompileInputs.cache
+C:\Users\sanmg\source\repos\GeradorDeSenhasC#\GeradorDeSenhasC#\bin\Debug\GeradorDeSenhasC#.exe.config
+C:\Users\sanmg\source\repos\GeradorDeSenhasC#\GeradorDeSenhasC#\bin\Debug\GeradorDeSenhasC#.exe
+C:\Users\sanmg\source\repos\GeradorDeSenhasC#\GeradorDeSenhasC#\bin\Debug\GeradorDeSenhasC#.pdb
+C:\Users\sanmg\source\repos\GeradorDeSenhasC#\GeradorDeSenhasC#\obj\Debug\GeradorDeSenhasC#.exe
+C:\Users\sanmg\source\repos\GeradorDeSenhasC#\GeradorDeSenhasC#\obj\Debug\GeradorDeSenhasC#.pdb
